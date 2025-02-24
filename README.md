@@ -63,6 +63,7 @@ This is a simple **Stone, Paper, Scissors** game implemented in **C++** using Ob
 - Implement multiple rounds with a scoring system.
 - Add a user-friendly menu for replaying the game.
 - Enhance the UI using graphics (if required).
+- Add audio cues for navigating through different rounds or simply interacting with buttons.
 
 ## License
 
