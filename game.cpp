@@ -6,15 +6,15 @@ private:
     int playerChoice;
     int computerChoice;
 public:
-    Game(){}
+    Game(){} // Krina
 
-    void getPlayerChoice(){}
+    void getPlayerChoice(){}  // Takshay
 
-    void getComputerChoice(){}
+    void getComputerChoice(){}  // Shubham
 
-    void determineWinner(){}
+    void determineWinner(){} // Jadeja & Kamil
 
-    string choiceToString(int choice){}
+    string choiceToString(int choice){} // Mann & Harsh
 };
 
 int main() {
