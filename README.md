@@ -44,7 +44,7 @@ This is a simple **Stone, Paper, Scissors** game implemented in **C++** using Ob
 - `void getPlayerChoice();`
 - `void getComputerChoice();`
 - `void determineWinner();`
-- `std::string choiceToString(int choice);`
+- `string choiceToString(int choice);`
 
 ## How to Run
 
